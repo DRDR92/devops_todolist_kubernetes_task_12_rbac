@@ -1,4 +1,3 @@
-# kind cluster config: kind create cluster --config cluster.yml
 apiVersion: v1
 kind: Service
 metadata:
